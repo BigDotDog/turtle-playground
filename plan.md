@@ -4,16 +4,16 @@
 
 **Activities:**
 
-- Install Rust using rustup (https://rustup.rs/)
+- Install Rust using [`rustup`](https://rustup.rs)
 - Install Visual Studio Code with the Rust extension
 - Create a GitHub account to save progress
 - Review basic Logo concepts your child already knows
 
 **Resources to Gather:**
 
-- The Rust Book (online): https://doc.rust-lang.org/book/
-- Rust by Example: https://doc.rust-lang.org/rust-by-example/
-- Rustlings exercises: https://github.com/rust-lang/rustlings/
+- [The Rust Book](https://doc.rust-lang.org/book/)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Rustlings](https://github.com/rust-lang/rustlings/) exercises
 
 ## Week 1: Hello, Rust!
 
