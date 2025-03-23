@@ -175,4 +175,153 @@ Build a simple address book program that stores names and phone numbers.
 3. Create multiple Person instances and call their methods
 
 **Weekend Project:**
-Enhance the Turtle drawing simulator (part 3) - converting to a
+Enhance the Turtle drawing simulator (part 3) - converting to a struct-based design with methods.
+
+## Week 8: Enums and Pattern Matching
+
+**Learning Goals:**
+
+- Create and use enumerations
+- Implement pattern matching with match
+- Model different states and options
+
+**Activities:**
+
+1. Define enums for related values
+2. Use match expressions to handle different cases
+3. Explore the Option enum for handling absence
+
+**Exercises:**
+
+1. Create an enum for different shapes with associated values
+2. Write a function that calculates area based on the shape type
+3. Use the Option type to handle calculations that might fail
+
+**Weekend Project:**
+Build a simple game with different character types using enums.
+
+## Week 9: Error Handling
+
+**Learning Goals:**
+
+- Understand Rust's approach to error handling
+- Use Result for operations that might fail
+- Handle errors gracefully
+
+**Activities:**
+
+1. Introduction to the Result type
+2. Learn about panic! and when to use it
+3. Explore error propagation with the ? operator
+
+**Exercises:**
+
+1. Create functions that return Result values
+2. Handle file operations with proper error checking
+3. Refactor previous code to use better error handling
+
+**Weekend Project:**
+Create a simple file manager that can create, read, and write files with proper error handling.
+
+## Week 10: Collections and Iterators
+
+**Learning Goals:**
+
+- Work with more advanced collections
+- Use iterators to process collections
+- Apply functional programming concepts
+
+**Activities:**
+
+1. Explore HashMap and HashSet
+2. Learn about iterators and their methods
+3. Use closures with iterators
+
+**Exercises:**
+
+1. Create a program that counts word frequency using a HashMap
+2. Transform collections using map, filter, and collect
+3. Create a custom iterator for a collection
+
+**Weekend Project:**
+Build a simple contact management system with search capabilities.
+
+## Week 11: Traits and Generics
+
+**Learning Goals:**
+
+- Understand shared behaviour with traits
+- Create flexible code with generics
+- Combine traits and generics
+
+**Activities:**
+
+1. Define and implement traits
+2. Use generic types in functions and structs
+3. Explore trait bounds
+
+**Exercises:**
+
+1. Create a trait for shapes and implement it for different types
+2. Write generic functions that work on multiple types
+3. Use trait bounds to ensure type safety
+
+**Weekend Project:**
+Enhance the Turtle drawing simulator (part 4) - adding traits for different drawing capabilities.
+
+## Week 12: Final Project
+
+**Learning Goals:**
+
+- Apply all concepts learned
+- Design and implement a complete program
+- Debug and refine code
+
+**Activities:**
+
+1. Plan and design a final project
+2. Implement the project with guidance
+3. Test and debug the project
+
+**Project Ideas:**
+
+1. A complete Turtle graphics application with:
+
+   - Multiple turtle support
+   - Saving and loading drawings
+   - Custom commands and macros
+   - A simple GUI (using a basic GUI library)
+
+2. A text-based adventure game with:
+
+   - Different rooms and items
+   - Inventory management
+   - Simple puzzles to solve
+   - Saving and loading game state
+
+3. A personal organiser with:
+   - Task management
+   - Calendar events
+   - Notes and reminders
+   - File storage for task attachments
+
+**Final Celebration:**
+Review all that your child has learned and celebrate their achievements with a small presentation of their final project!
+
+## Beyond the 12 Weeks
+
+**Continued Learning:**
+
+- Explore modules and crates
+- Learn about concurrency and threading
+- Try building small web applications with Rust
+- Contribute to open source Rust projects
+- Join Rust communities (Reddit, Discord) for continued learning
+
+**Recommended Resources:**
+
+- The Rust Programming Language (book)
+- Programming Rust (O'Reilly)
+- Rust in Action (Manning)
+- Rust Cookbook (Packt)
+- Exercism.io Rust track
