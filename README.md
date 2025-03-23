@@ -2,7 +2,7 @@
 
 ## Preparation (1 Week) – Transfer Logo Knowledge to Rust
 
-- Review what she knows from Logo (loops, variables, functions).
+- Review what she knows from [Logo](https://turtleacademy.com) (loops, variables, functions).
 - Introduce Rust in simple terms—just another way to "talk to the computer."
 - Set up Rust (use [Rust Playground](https://play.rust-lang.org) first).
 - Show basic output (`print!`) and connect it to Logo commands.
@@ -10,7 +10,7 @@
 ## Phase 1: Basics with Visuals (2-3 Weeks)
 
 Goal: Learn Rust basics through drawing.
-- Teach variables, loops, and functions using simple graphics (`turtle-rs`).
+- Teach variables, loops, and functions using simple graphics ([`turtle-rs`](https://turtle.rs/)).
 - Project: Draw patterns with loops, like in Logo.
 
 ## Phase 2: Control Flow & Interaction (2-3 Weeks)
