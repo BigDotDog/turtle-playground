@@ -16,8 +16,8 @@ Goal: Learn Rust basics through drawing.
 ## Phase 2: Control Flow & Interaction (2-3 Weeks)
 
 Goal: Add logic and user input.
-- Introduce if/else statements and basic user input.
--Project: Extend the drawing program to change shapes based on input.
+- Introduce `if`/`else` statements and basic user input.
+- Project: Extend the drawing program to change shapes based on input.
 
 ## Phase 3: Ownership & Borrowing (3-4 Weeks)
 
