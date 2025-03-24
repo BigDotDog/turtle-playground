@@ -50,7 +50,7 @@ In Rust, you'll write:
 
 ```rust
 let name = "Claude";
-println!("{}", name);
+println!("{name}");
 ```
 
 ### Loops
