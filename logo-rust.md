@@ -50,7 +50,7 @@ In Rust, you'll write:
 
 ```rust
 let name = "Claude";
-println!("{}", name);
+println!("{name}");
 ```
 
 ### Loops
@@ -89,9 +89,9 @@ if x > 10 {
 
 ## Fun First Projects to Try
 
-1. **Number Guessing Game**: Create a game where the computer picks a random number and you have to guess it!
+1. [**Number Guessing Game**](src/guess.rs): Create a game where the computer picks a random number and you have to guess it!
 2. **Maths Quiz**: Make a program that asks maths questions and keeps score of correct answers.
-3. **Text Adventure**: Create a simple adventure game where you make choices by typing commands.
+3. [**Text Adventure**](src/adventure.rs): Create a simple adventure game where you make choices by typing commands.
 
 ## Remember
 
